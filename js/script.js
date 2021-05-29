@@ -356,12 +356,12 @@ function createContactForm(){
 		<div class="contact_form pb-md-4">
 			<h1 class="pl-3 pl-md-5 pt-3 pb-3 font-weight-bold">Contact:</h1>
 			<div class='contact'>
-			<p class="text-sm-left"><span style="font-weight: 600">Street: </span>Brandenburgische Strasse 18</p>
-			<p class="text-sm-left"><span style="font-weight: 600">State/province/area:</span> Rheinland-Pfalz</p>
-			<p class="text-sm-left"><span style="font-weight: 600">Phone number: </span>06340 83 62 62</p>
-			<p class="text-sm-left"><span style="font-weight: 600">Zip code: </span>76872</p>
-			<p class="text-sm-left"><span style="font-weight: 600">Country calling code: </span>+49</p>
-			<p class="text-sm-left"><span style="font-weight: 600">Country: </span>Germany</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">Street: </span>Brandenburgische Strasse 18</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">State/province/area:</span> Rheinland-Pfalz</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">Phone number: </span>06340 83 62 62</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">Zip code: </span>76872</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">Country calling code: </span>+49</p>
+			<p class="text-sm-left" style="line-height: 35px"><span style="font-weight: 600">Country: </span>Germany</p>
 			</div>
 		</div>
 		</div>
