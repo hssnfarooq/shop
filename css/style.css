@@ -66,6 +66,10 @@ nav{
 	border-radius: 25px;
 }
 
+.contact{
+	margin-left: 100px;
+}
+
 .contact_form{
 	height: 500px;
 }

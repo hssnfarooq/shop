@@ -92,37 +92,37 @@ $(document).ready(function() {
 				1: {
 					name: 'Trouser 1',
 					description: 'Description Trouser 1',
-					imgUrl: './img/Trousers/trouser1.jpeg',
+					imgUrl: './img/Trousers/trouser1.jpg',
 					price: 100
 				},
 				2: {
 					name: 'Trouser 2',
 					description: 'Description Trouser 2',
-					imgUrl: './img/Trousers/trouser2.jpeg',
+					imgUrl: './img/Trousers/trouser2.jpg',
 					price: 200
 				},
 				3: {
 					name: 'Trouser 3',
 					description: 'Description Trouser 3',
-					imgUrl: './img/Trousers/trouser3.jpeg',
+					imgUrl: './img/Trousers/trouser3.jpg',
 					price: 300
 				},
 				4: {
 					name: 'Trouser 4',
 					description: 'Description Trouser 4',
-					imgUrl: './img/Trousers/trouser4.jpeg',
+					imgUrl: './img/Trousers/trouser4.jpg',
 					price: 400
 				},
 				5: {
 					name: 'Trouser 5',
 					description: 'Description Trouser 5',
-					imgUrl: './img/Trousers/trouser5.jpeg',
+					imgUrl: './img/Trousers/trouser5.jpg',
 					price: 500
 				},
 				6: {
 					name: 'Trouser 6',
 					description: 'Description Trouser 6',
-					imgUrl: './img/Trousers/trouser6.jpeg',
+					imgUrl: './img/Trousers/trouser6.jpg',
 					price: 600
 				}
 			}
@@ -134,7 +134,7 @@ $(document).ready(function() {
 				1: {
 					name: 'Shoes 1',
 					description: 'Description Shoe 1',
-					imgUrl: './img/Shoes/shoe1.jpeg',
+					imgUrl: './img/Shoes/shoe1.jpg',
 					price: 100
 				},
 				2: {
@@ -176,37 +176,37 @@ $(document).ready(function() {
 				1: {
 					name: 'Hat 1',
 					description: 'Description Hat 1',
-					imgUrl: './img/Hats/hat1.jpeg',
+					imgUrl: './img/Hats/hat1.jpg',
 					price: 100
 				},
 				2: {
 					name: 'Hat 2',
 					description: 'Description Hat 2',
-					imgUrl: './img/Hats/hat2.jpeg',
+					imgUrl: './img/Hats/hat2.jpg',
 					price: 200
 				},
 				3: {
 					name: 'Hat 3',
 					description: 'Description Hat 3',
-					imgUrl: './img/Hats/hat3.jpeg',
+					imgUrl: './img/Hats/hat3.jpg',
 					price: 300
 				},
 				4: {
 					name: 'Hat 4',
 					description: 'Description Hat 4',
-					imgUrl: './img/Hats/hat4.jpeg',
+					imgUrl: './img/Hats/hat4.jpg',
 					price: 400
 				},
 				5: {
 					name: 'Hat 5',
 					description: 'Description Hat 5',
-					imgUrl: './img/Hats/hat5.jpeg',
+					imgUrl: './img/Hats/hat5.jpg',
 					price: 500
 				},
 				6: {
 					name: 'Hat 6',
 					description: 'Description Hat 6',
-					imgUrl: './img/Hats/hat6.jpeg',
+					imgUrl: './img/Hats/hat6.jpg',
 					price: 600
 				}
 			}
@@ -355,7 +355,14 @@ function createContactForm(){
 	<div class= "limiter">
 		<div class="contact_form pb-md-4">
 			<h1 class="pl-3 pl-md-5 pt-3 pb-3 font-weight-bold">Contact:</h1>
-			
+			<div class='contact'>
+			<p class="text-sm-left"><span style="font-weight: 600">Street: </span>Brandenburgische Strasse 18</p>
+			<p class="text-sm-left"><span style="font-weight: 600">State/province/area:</span> Rheinland-Pfalz</p>
+			<p class="text-sm-left"><span style="font-weight: 600">Phone number: </span>06340 83 62 62</p>
+			<p class="text-sm-left"><span style="font-weight: 600">Zip code: </span>76872</p>
+			<p class="text-sm-left"><span style="font-weight: 600">Country calling code: </span>+49</p>
+			<p class="text-sm-left"><span style="font-weight: 600">Country: </span>Germany</p>
+			</div>
 		</div>
 		</div>
 	`;
